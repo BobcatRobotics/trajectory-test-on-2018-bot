@@ -5,6 +5,11 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+
+// TODO: Add limelight functionality to allow for limelight target pathfinding
+// TODO: Add a calculation method to calculate the distance to object (meters)
+// TODO: Add a tx and ty adjustor to fix the robot offset to target 
+
 package frc.robot;
 
 import java.util.List;
